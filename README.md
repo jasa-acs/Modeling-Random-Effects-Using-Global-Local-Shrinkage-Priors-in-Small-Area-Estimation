@@ -2,15 +2,6 @@
 
 # Author Contributions Checklist Form
 
-The purpose of the Author Contributions Checklist (ACC) Form is to document the code and
-data supporting a manuscript, and describe how to reproduce its main results.
-
-As of Sept. 1, 2016, the ACC Form must be included with all new submissions to JASA ACS.
-
-This document is the initial version of the template that will be provided to authors. The JASA
-Associate Editors for Reproducibility will update this document with more detailed instructions
-and information about best practices for many of the listed requirements over time.
-
 ## Data
 
 ### Abstract (Mandatory)
